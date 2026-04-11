@@ -1,0 +1,12 @@
+{
+  "export_job_id": "60d3dc44-d0e3-4c2f-98cd-ba588abf4dbd",
+  "id_short": 164764,
+  "published_at": "2026-04-11T19:03:07Z",
+  "repo_name": "all-restaurants-in-dearborn-michigan-us-sample-164764",
+  "sample_asset_name": "beamstation_164764_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/164764/beamstation_164764_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 31,
+  "sample_sha256": "5af0126f93f849c1af45ad9f1442b30eaa15b2b16b005269b7114346e23f5004",
+  "sample_size_bytes": 126277,
+  "total_records": 313
+}
