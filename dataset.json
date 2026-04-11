@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Dearborn, Michigan with a population of over 109k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Dearborn, Michigan, US",
+  "export_job_id": "60d3dc44-d0e3-4c2f-98cd-ba588abf4dbd",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 164764,
+  "location_name": "Dearborn",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-dearborn-michigan-us-sample-164764",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/164764/beamstation_164764_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 31,
+  "sample_sha256": "5af0126f93f849c1af45ad9f1442b30eaa15b2b16b005269b7114346e23f5004",
+  "sample_size_bytes": 126277,
+  "total_records": 313,
+  "updated_at": "2026-04-09T13:03:35.224761+00:00"
+}
