@@ -1,6 +1,6 @@
 # All Restaurants in Dearborn, Michigan, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `164764` |
 | Location | Dearborn |
 | Category | Restaurants |
-| Full dataset size | 277 records |
-| Free sample size | 27 records (9.75%) |
-| Last export | 2026-04-23T12:13:03.204021+00:00 |
+| Full dataset size | 304 records |
+| Free sample size | 30 records (9.87%) |
+| Last export | 2026-04-30T23:13:43.284484+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-dearborn-michigan-us-sample-164764/releases/download/sample-latest/beamstation_164764_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
